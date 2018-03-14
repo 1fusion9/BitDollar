@@ -1,0 +1,9 @@
+Building BitDollar
+
+See doc/readme-qt.rst for instructions on building BitDollar QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BitDollar.
+
+See doc/build-*.txt for instructions on building BitDollard,
+the intended-for-services, no-graphical-interface, reference
+implementation of BitDollar.
