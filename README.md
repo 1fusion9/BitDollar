@@ -1,9 +1,8 @@
-BitDollar v1.0.1.0
+BitDollar (XBD) is a revolution to fulfill original promises of bitcoin as a digital currency to perform fast, secure and low fees cross border transaction without centralization.
 
-Updates to GUI  and IPv6.
-
-
+All Bitcoin holders as of block #506984 are also owners of BitDollar and eligible to claim 10x BitDollar of their bitcoin holding.
 
 
 
-Offical BitDollar found under BitDollarDev/BitDollar
+Visit www.bitdollar.cc for more information
+
